@@ -16,7 +16,6 @@ canvas = tk.Canvas(root, width=SIZE, height=SIZE)
 picture, picture_data, picture_data_new = None, None, None
 running = True
 randomFillPercent = 47
-
 RED, GREEN, BLUE, BLACK, WHITE = [255, 0, 0], [0, 255, 0], [0, 0, 255], [0, 0, 0], [255, 255, 255]
 
 
