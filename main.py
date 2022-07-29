@@ -108,9 +108,7 @@ def change_pixel_color(x: int, y: int, color: list):
 
 
 phase = 0
-
 label = None
-
 old_phase = -1
 
 
